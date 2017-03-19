@@ -19,5 +19,5 @@ public class output{
 
     }
 }
-//error jug
+//error proba
 
